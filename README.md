@@ -2,7 +2,7 @@
 #### I am python developer.
 I like learning about new technologies.
 
-Skills: PYTHON / DATA SCIENCE / JS / HTML / CSS
+Skills: PYTHON / DATA SCIENCE / JS / HTML / CSS / C++ / SQL / Jupyter / AWS / Linux
 
 🌱 I’m currently working as Senior Software Engineer at HERE Technologies.
 
