@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Sachin Kharude
-#### I am python developer.
+#### I am Software Engineer.
 I like learning about new technologies.
 
 Skills: PYTHON / DATA SCIENCE / JS / HTML / CSS / C++ / SQL / Jupyter / AWS / Linux
