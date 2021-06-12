@@ -7,7 +7,7 @@ Skills: PYTHON / DATA SCIENCE / JavaScript / HTML / CSS / C++ / SQL / Jupyter / 
 🌱 I’m currently working as Senior Software Engineer at HERE Technologies.
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sackh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sachinkharude/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sachkh)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sackh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sachinkharude/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sachkh)  [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='40'>](https://sachinkharude10.medium.com/)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sackh&show_icons=true)
 
