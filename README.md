@@ -11,4 +11,5 @@ Skills: PYTHON / DATA SCIENCE / JavaScript / HTML / CSS / C++ / SQL / Jupyter / 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sackh&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sackh&hide=TeX&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sackh&hide=TeX&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sackh&" alt="sackh" /></p>
