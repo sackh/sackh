@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Sachin Kharude
 #### I am Software Engineer.
-I like learning about new technologies.
+
+
 
 Skills:
 
